@@ -30,7 +30,7 @@ header{
   .topnav a {
    
     margin-left: 100px;
-    color: rgb(148, 139, 139);
+    color: rgb(8, 8, 8);
     text-align: center;
     padding-right: 20px;
     text-decoration: none;
@@ -217,7 +217,7 @@ header{
   }
   .information{
     border: 2px solid white;
-    background-color:rgb(250, 249, 247);
+    background-color:rgb(236, 235, 231);
     width: 50%;
     height: 30em;
     align-self: center;
